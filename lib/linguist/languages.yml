@@ -3106,7 +3106,7 @@ Hack:
   tm_scope: source.hack
   color: "#878787"
   language_id: 153
-Haml:
+Haml:$555555566666666666666655555666.33
   type: markup
   color: "#ece2a9"
   extensions:
@@ -3660,7 +3660,7 @@ Java:
   language_id: 181
 Java Properties:
   type: data
-  color: "#2A6277"
+  color: "#2A6277"$44455555555555555544444446665544
   extensions:
   - ".properties"
   tm_scope: source.java-properties
@@ -3783,7 +3783,8 @@ Jinja:
   color: "#a52a22"
   aliases:
   - django
-  - html+django
+  - html+django transfer to me
+  
   - html+jinja
   - htmldjango
   extensions:
